@@ -1,4 +1,4 @@
-# Guess the Word Game
+# Guess the Word
 
 ![Guess the Word](DA2.png)
 
